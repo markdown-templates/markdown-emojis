@@ -1,8 +1,11 @@
 # :fire: All the emojis :tada:
 
+---
+---
+
 ## People
 
-|                               All                               |                               The                               |                   Emojis                    |
+|                               All                               |                              The                                |                   Emojies                   |
 | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------: |
 |                       :bowtie: `:bowtie:`                       |                        :smile: `:smile:`                        |           :laughing: `:laughing:`           |
 |                        :blush: `:blush:`                        |                       :smiley: `:smiley:`                       |            :relaxed: `:relaxed:`            |
@@ -24,7 +27,12 @@
 |                       :sleepy: `:sleepy:`                       |                          :yum: `:yum:`                          |               :mask: `:mask:`               |
 |                   :sunglasses: `:sunglasses:`                   |                   :dizzy_face: `:dizzy_face:`                   |                :imp: `:imp:`                |
 |                  :smiling_imp: `:smiling_imp:`                  |                 :neutral_face: `:neutral_face:`                 |           :no_mouth: `:no_mouth:`           |
-|                     :innocent: `:innocent:`                     |                        :alien: `:alien:`                        |       :yellow_heart: `:yellow_heart:`       |
+|                     :innocent: `:innocent:`                     |                        :alien: `:alien:`                        |                                             |
+
+## Heart and special emojies
+
+|                 :yellow_heart: `:yellow_heart:`                 |                  :black_heart: `:black_heart:`                  |  :gift_heart: `:gift_heart`  |
+| :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------: |
 |                   :blue_heart: `:blue_heart:`                   |                 :purple_heart: `:purple_heart:`                 |              :heart: `:heart:`              |
 |                  :green_heart: `:green_heart:`                  |                 :broken_heart: `:broken_heart:`                 |          :heartbeat: `:heartbeat:`          |
 |                   :heartpulse: `:heartpulse:`                   |                   :two_hearts: `:two_hearts:`                   |   :revolving_hearts: `:revolving_hearts:`   |
@@ -35,7 +43,11 @@
 |                :grey_question: `:grey_question:`                |                          :zzz: `:zzz:`                          |               :dash: `:dash:`               |
 |                  :sweat_drops: `:sweat_drops:`                  |                        :notes: `:notes:`                        |       :musical_note: `:musical_note:`       |
 |                         :fire: `:fire:`                         |                       :hankey: `:hankey:`                       |               :poop: `:poop:`               |
+
+## Pointers and signs
+
 |                         :shit: `:shit:`                         |                           :+1: `:+1:`                           |           :thumbsup: `:thumbsup:`           |
+| :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------: |
 |                           :-1: `:-1:`                           |                   :thumbsdown: `:thumbsdown:`                   |            :ok_hand: `:ok_hand:`            |
 |                        :punch: `:punch:`                        |                    :facepunch: `:facepunch:`                    |               :fist: `:fist:`               |
 |                            :v: `:v:`                            |                         :wave: `:wave:`                         |               :hand: `:hand:`               |
@@ -65,10 +77,8 @@
 |                          :ear: `:ear:`                          |                         :eyes: `:eyes:`                         |               :nose: `:nose:`               |
 |                       :tongue: `:tongue:`                       |                  :love_letter: `:love_letter:`                  | :bust_in_silhouette: `:bust_in_silhouette:` |
 |          :busts_in_silhouette: `:busts_in_silhouette:`          |               :speech_balloon: `:speech_balloon:`               |    :thought_balloon: `:thought_balloon:`    |
-|                    :feelsgood: `:feelsgood:`                    |                     :finnadie: `:finnadie:`                     |          :goberserk: `:goberserk:`          |
-|                      :godmode: `:godmode:`                      |                  :hurtrealbad: `:hurtrealbad:`                  |              :rage1: `:rage1:`              |
-|                        :rage2: `:rage2:`                        |                        :rage3: `:rage3:`                        |              :rage4: `:rage4:`              |
-|                      :suspect: `:suspect:`                      |                    :trollface: `:trollface:`                    |
+
+
 
 ## Nature
 
@@ -112,6 +122,31 @@
 |               :earth_americas: `:earth_americas:`               |           :earth_asia: `:earth_asia:`           |                     :volcano: `:volcano:`                     |
 |                    :milky_way: `:milky_way:`                    |         :partly_sunny: `:partly_sunny:`         |                     :octocat: `:octocat:`                     |
 |                     :squirrel: `:squirrel:`                     |
+
+## Food items
+
+|                           :apple: `:apple:`                        |                 :green_apple: `:green_apple:`                |                    :pear: `:pear:`                     |
+| :----------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------: |
+|                           :lemon: `:lemon:`                        |                      :banana: `:banana:`                     |              :watermelon: `:watermelon:`               |
+|                          :grapes: `:grapes:`                       |                   :croissant: `:croissant:`                  |              :strawberry: `:strawberry:`               |
+|                           :melon: `:melon:`                        |                    :cherries: `:cherries:`                   |                   :peach: `:peach:`                    |
+|                           :bread: `:bread:`                        |                   :pineapple: `:pineapple:`                  |                  :cheese: `:cheese:`                   |
+|                             :egg: `:egg:`                          |                      :tomato: `:tomato:`                     |                :eggplant: `:eggplant:`                 |
+|                         :avocado: `:avocado:`                      |                    :pancakes: `:pancakes:`                   |                   :bacon: `:bacon:`                    |
+|                        :cucumber: `:cucumber:`                     |                  :hot_pepper: `:hot_pepper:`                 |                    :corn: `:corn:`                     |
+|                          :carrot: `:carrot:`                       |                      :hotdog: `:hotdog:`                     |               :hamburger: `:hamburger:`                |
+|                          :potato: `:potato:`                       |                :sweet_potato: `:sweet_potato:`               |                   :fries: `:fries:`                    |
+|                           :pizza: `:pizza:`                        |                        :taco: `:taco:`                       |                 :burrito: `:burrito:`                  |
+|                       :spaghetti: `:spaghetti:`                    |                       :ramen: `:ramen:`                      |                    :stew: `:stew:`                     |
+|                           :curry: `:curry:`                        |                       :sushi: `:sushi:`                      |                   :bento: `:bento:`                    |
+|                       :rice_ball: `:rice_ball:`                    |                        :rice: `:rice:`                       |                    :oden: `:oden:`                     |
+|                           :dango: `:dango:`                        |                   :ice_cream: `:ice_cream:`                  |                :icecream: `:icecream:`                 |
+|                            :cake: `:cake:`                         |                    :lollipop: `:lollipop:`                   |                   :candy: `:candy:`                    |
+|                         :popcorn: `:popcorn:`                      |                      :cookie: `:cookie:`                     |                :doughnut: `:doughnut:`                 |
+|                       :honey_pot: `:honey_pot:`                    |                         :tea: `:tea:`                        |                  :coffee: `:coffee:`                   |
+|                            :sake: `:sake:`                         |                        :beer: `:beer:`                       |                   :beers: `:beers:`                    |
+|                      :wine_glass: `:wine_glass:`                   |               :tumbler_glass: `:tumbler_glass:`              |                :cocktail: `:cocktail:`                 |
+|                       :champagne: `:champagne:`                    |                                                              |                                                        |
 
 ## Objects
 
@@ -311,6 +346,6 @@
 |                    :black_circle: `:black_circle:`                    |                :white_circle: `:white_circle:`                |                :red_circle: `:red_circle:`                |
 |               :large_blue_circle: `:large_blue_circle:`               |          :large_blue_diamond: `:large_blue_diamond:`          |      :large_orange_diamond: `:large_orange_diamond:`      |
 |              :small_blue_diamond: `:small_blue_diamond:`              |        :small_orange_diamond: `:small_orange_diamond:`        |        :small_red_triangle: `:small_red_triangle:`        |
-|         :small_red_triangle_down: `:small_red_triangle_down:`         |                      :shipit: `:shipit:`                      |
+|         :small_red_triangle_down: `:small_red_triangle_down:`         |                                                               |
 
 <sup>Source: [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908) (with additional change)</sup>
