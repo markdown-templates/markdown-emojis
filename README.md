@@ -341,7 +341,9 @@
 |                    :white_flower: `:white_flower:`                    |                         :100: `:100:`                         |          :heavy_check_mark: `:heavy_check_mark:`          |
 |           :ballot_box_with_check: `:ballot_box_with_check:`           |                :radio_button: `:radio_button:`                |                      :link: `:link:`                      |
 |                      :curly_loop: `:curly_loop:`                      |                   :wavy_dash: `:wavy_dash:`                   |     :part_alternation_mark: `:part_alternation_mark:`     |
-|                         :trident: `:trident:`                         |                :black_square: `:black_square:`                |              :white_square: `:white_square:`              |
+|                         :trident: `:trident:`                         |          :black_small_square: `:black_small_square:`          | :black_medium_small_square: `:black_medium_small_square:` |
+|	          :black_medium_square: ` :black_medium_square:`            | 		   :black_large_square: ` :black_large_square:`         |        :white_small_square: `:white_small_square:`        |
+|       :white_medium_small_square: `:white_medium_small_square:`       |         :white_medium_square: `:white_medium_square:`			|		 :white_large_square: ` :white_large_square:` 		|
 |                :white_check_mark: `:white_check_mark:`                |         :black_square_button: `:black_square_button:`         |       :white_square_button: `:white_square_button:`       |
 |                    :black_circle: `:black_circle:`                    |                :white_circle: `:white_circle:`                |                :red_circle: `:red_circle:`                |
 |               :large_blue_circle: `:large_blue_circle:`               |          :large_blue_diamond: `:large_blue_diamond:`          |      :large_orange_diamond: `:large_orange_diamond:`      |
