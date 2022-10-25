@@ -31,7 +31,7 @@
 
 ## Heart and special emojies
 
-|                 :yellow_heart: `:yellow_heart:`                 |                  :black_heart: `:black_heart:`                  |  :gift_heart: `:gift_heart`  |
+|                 :yellow_heart: `:yellow_heart:`                 |                  :black_heart: `:black_heart:`                  |  :gift_heart: `:gift_heart:`  |
 | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------: |
 |                   :blue_heart: `:blue_heart:`                   |                 :purple_heart: `:purple_heart:`                 |              :heart: `:heart:`              |
 |                  :green_heart: `:green_heart:`                  |                 :broken_heart: `:broken_heart:`                 |          :heartbeat: `:heartbeat:`          |
