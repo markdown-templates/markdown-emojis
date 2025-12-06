@@ -5,7 +5,7 @@ This is a list of all the emojis that are available in GitHub Markdown.
 You can use them in your GitHub Markdown files by using the `:emoji_name:` syntax.
 
 <!-- generate:start -->
-| All | Mojis |
+| All | Emojis |
 |:---:|:---:|
 | `:+1:` :+1: | `:-1:` :-1: |
 | `:100:` :100: | `:1234:` :1234: |
