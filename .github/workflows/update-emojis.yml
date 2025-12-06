@@ -28,7 +28,7 @@ jobs:
 
                   if [[ -n $(git status -s) ]]; then
                     git add README.md
-                    git commit -m "chore: update emoji list [skip ci]"
+                    git commit -m "chore: update emoji list"
                     git push
                   else
                     echo "No changes to commit"
