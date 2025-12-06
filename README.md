@@ -652,4 +652,8 @@
 
 <!-- generate:stop -->
 
-Footer
+---
+
+> [mjw.dev](https://mjw.dev) &nbsp;&middot;&nbsp;
+> GitHub [@MarvinJWendt](https://github.com/MarvinJWendt) &nbsp;&middot;&nbsp;
+> Other [X](https://mjw.dev/x)
