@@ -656,6 +656,8 @@ You can use them in your GitHub Markdown files by using the `:emoji_name:` synta
 
 <!-- generate:stop -->
 
+This list is updated automatically every Sunday at midnight UTC.
+
 ---
 
 > [mjw.dev](https://mjw.dev) &nbsp;&middot;&nbsp;
