@@ -17,7 +17,7 @@ echo "Fetching emojis..."
 EMOJIS=$(curl -s "$API_URL" | jq -r 'keys[]' | sort)
 
 echo "Generating table..."
-TABLE="| Emoji | Emoji | Emoji |\n|---|---|---|\n"
+TABLE="| All | The | Emojis |\n|:---:|:---:|:---:|\n"
 COLUMN=0
 ROW_BUFFER=""
 

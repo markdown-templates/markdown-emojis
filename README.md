@@ -1,8 +1,12 @@
-# :fire: All the emojis :tada:
+# :fire: All GitHub Markdown Emojis :tada:
+
+This is a list of all the emojis that are available in GitHub Markdown.
+
+You can use them in your GitHub Markdown files by using the `:emoji_name:` syntax.
 
 <!-- generate:start -->
-| Emoji | Emoji | Emoji |
-|---|---|---|
+| All | The | Emojis |
+|:---:|:---:|:---:|
 | `:+1:` :+1: | `:-1:` :-1: | `:100:` :100: |
 | `:1234:` :1234: | `:1st_place_medal:` :1st_place_medal: | `:2nd_place_medal:` :2nd_place_medal: |
 | `:3rd_place_medal:` :3rd_place_medal: | `:8ball:` :8ball: | `:a:` :a: |
@@ -656,4 +660,4 @@
 
 > [mjw.dev](https://mjw.dev) &nbsp;&middot;&nbsp;
 > GitHub [@MarvinJWendt](https://github.com/MarvinJWendt) &nbsp;&middot;&nbsp;
-> Other [X](https://mjw.dev/x)
+> X [@MarvinJWendt](https://mjw.dev/x)
