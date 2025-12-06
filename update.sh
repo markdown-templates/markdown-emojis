@@ -17,7 +17,7 @@ echo "Fetching emojis..."
 EMOJIS=$(curl -s "$API_URL" | jq -r 'keys[]' | sort)
 
 echo "Generating table..."
-TABLE="| All | The | Emojis |\n|:---:|:---:|:---:|\n"
+TABLE="| All | Emojis |\n|:---:|:---:|\n"
 COLUMN=0
 ROW_BUFFER=""
 
@@ -33,7 +33,7 @@ for name in $EMOJIS; do
   
   COLUMN=$((COLUMN + 1))
   
-  if [ "$COLUMN" -eq 3 ]; then
+  if [ "$COLUMN" -eq 2 ]; then
     TABLE="${TABLE}${ROW_BUFFER}|\n"
     ROW_BUFFER=""
     COLUMN=0
@@ -42,7 +42,7 @@ done
 
 # Fill remaining columns if any
 if [ "$COLUMN" -ne 0 ]; then
-  while [ "$COLUMN" -lt 3 ]; do
+  while [ "$COLUMN" -lt 2 ]; do
     ROW_BUFFER="$ROW_BUFFER| "
     COLUMN=$((COLUMN + 1))
   done
