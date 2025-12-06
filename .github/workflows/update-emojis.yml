@@ -1,0 +1,35 @@
+name: Update Emojis
+
+on:
+    schedule:
+        # Run every Sunday at midnight UTC
+        - cron: "0 0 * * 0"
+    workflow_dispatch: # Allow manual trigger
+
+jobs:
+    update-emojis:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Update emoji list
+              run: |
+                  chmod +x update.sh
+                  ./update.sh
+
+            - name: Commit and push changes
+              run: |
+                  git config --global user.name "github-actions[bot]"
+                  git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+                  if [[ -n $(git status -s) ]]; then
+                    git add README.md
+                    git commit -m "chore: update emoji list [skip ci]"
+                    git push
+                  else
+                    echo "No changes to commit"
+                  fi
